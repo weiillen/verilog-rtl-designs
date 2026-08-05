@@ -66,7 +66,6 @@ verilog-rtl-designs/
 
 1. Read each project README for a concise architecture and verification summary.
 2. Open the preserved PDF report for the complete submitted Verilog listing, testbench, and original simulation evidence.
-3. Use `ORIGINAL_FILE_MANIFEST.tsv` to verify that the included reports are byte-for-byte identical to the uploaded files.
 
 ## Academic context
 
