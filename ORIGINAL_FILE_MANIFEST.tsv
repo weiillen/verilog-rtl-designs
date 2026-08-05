@@ -1,0 +1,3 @@
+original_archive_path	portfolio_path	size_bytes	sha256_original	sha256_portfolio	byte_identical
+ld_git/#4/Logic design hw^N4 112006265 Φöíσ«Üσ«ç (IBP EECS).pdf	projects/signed-ripple-carry-adder/original/8-bit-signed-ripple-carry-adder-report.pdf	172289	6c3738bd0c6f7be96f8d10e95baf41868936327da2ce9b6605c3a7b077a64740	6c3738bd0c6f7be96f8d10e95baf41868936327da2ce9b6605c3a7b077a64740	true
+ld_git/#6/IBP 112006265Φöíσ«Üσ«ç LDhw6.pdf	projects/triggered-decimal-counter/original/triggered-decimal-counter-report.pdf	264605	ab3fb984f018be3703b0be628c689fe3d0e3ae777b45da28144b6a3aa86582f1	ab3fb984f018be3703b0be628c689fe3d0e3ae777b45da28144b6a3aa86582f1	true
